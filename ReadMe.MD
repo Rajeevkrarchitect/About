@@ -7,11 +7,11 @@
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Rajeev ![Rajeev Kumar](https://img.shields.io/badge/Rajeevkrarchitect-Rajeev%20Kumar-green)
 # 
-#### *A Passionate Frontend & Backend Developer from India* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
+#### *A Passionate Backend and database Developer/Architecht from India* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
 
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and my success.
 
-###### *I Need And Welcome Your Guidance and Suggestions to get Better and Better in Me*
+###### *I Need And Welcome Your Guidance, Suggestions and support to get Better and Better in Me*
 
 #
 <samp>
