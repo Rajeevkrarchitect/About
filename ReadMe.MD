@@ -43,8 +43,6 @@ I enjoy being challenged and engaging with projects that require me to work outs
 <br>
 
 
-![GitHub metrics](https://metrics.lecoq.io/Rajeevkrarchitect)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rajeevkrarchitect)
 
 
