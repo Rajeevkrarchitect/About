@@ -35,7 +35,7 @@ I enjoy being challenged and engaging with projects that require me to work outs
 #
 ### &#x1f4c8; GitHub Stats
 
-[![Ansh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Rajeevkrarchitect&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Rajeevkrarchitect/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&langs_count=8)](https://github.com/AnshDMishra/github-readme-stats)
+[![Ansh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Rajeevkrarchitect&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Rajeevkrarchitect/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeevkrarchitect&langs_count=8)](https://github.com/Rajeevkrarchitect/github-readme-stats)
 
 <br/>
     <b>Note:</b> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level
