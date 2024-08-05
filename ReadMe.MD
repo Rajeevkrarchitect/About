@@ -19,7 +19,7 @@ I enjoy being challenged and engaging with projects that require me to work outs
 </samp>
    
 #
-- 💼 any freelance work or offer? do reach, [email]()
+- 💼 any freelance work or offer? do reach, [email](rajeevkr.architect@gmail.com)
 - 💬 ask me about anything, *i am happy to help*;
 #
 <h3 align="left">Languages and Tools:</h3>
@@ -72,8 +72,8 @@ I enjoy being challenged and engaging with projects that require me to work outs
 <p align="center">
     <a href="https://Rajeevkrarchitect.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
     <a href="https://github.com/Rajeevkrarchitect" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-    --<a href="mailto:anshvnm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-    --<a href="https://wa.me/919415180182/?text=Hi Ansh, Whatsup" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp"/></a>
+    <a href="mailto:rajeevkr.architect@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+    <a href="https://wa.me/919911221843/?text=Hi Ansh, Whatsup" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp"/></a>
     <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  </p>
 
